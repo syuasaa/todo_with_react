@@ -7,6 +7,7 @@ import TodoStatistics from "./todo-statistics/TodoStatistics";
 import "./Todo.scss";
 
 const Todo = () => {
+  // lknclkasnclkan
   const [inputValue, setInputValue] = useState("");
   const [todos, setTodos] = useState([]);
 
